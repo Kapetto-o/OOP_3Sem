@@ -1,0 +1,27 @@
+{
+  "ClassName": "Flowers",
+  "AssemblyName": "Reflection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "HasPublicConstructors": true,
+  "PublicMethods": [
+    "GetDescription",
+    "ToString",
+    "get_Name",
+    "set_Name",
+    "get_Price",
+    "set_Price",
+    "DoClone",
+    "Equals",
+    "GetHashCode",
+    "GetType"
+  ],
+  "FieldsAndProperties": [
+    "Property: Name (String)",
+    "Property: Price (Decimal)"
+  ],
+  "ImplementedInterfaces": [
+    "ICloneable"
+  ],
+  "MethodsWithStringParameter": [
+    "set_Name"
+  ]
+}

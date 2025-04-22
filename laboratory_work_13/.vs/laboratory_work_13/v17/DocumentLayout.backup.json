@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{254278E1-EA63-4A10-BF00-6506F2C89CE7}|Working with Stream Classes and the File System\\Working with Stream Classes and the File System.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_13\\working with stream classes and the file system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254278E1-EA63-4A10-BF00-6506F2C89CE7}|Working with Stream Classes and the File System\\Working with Stream Classes and the File System.csproj|solutionrelative:working with stream classes and the file system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254278E1-EA63-4A10-BF00-6506F2C89CE7}|Working with Stream Classes and the File System\\Working with Stream Classes and the File System.csproj|D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_13\\working with stream classes and the file system\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254278E1-EA63-4A10-BF00-6506F2C89CE7}|Working with Stream Classes and the File System\\Working with Stream Classes and the File System.csproj|solutionrelative:working with stream classes and the file system\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_13\\Working with Stream Classes and the File System\\test.cs",
+              "RelativeDocumentMoniker": "Working with Stream Classes and the File System\\test.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_13\\Working with Stream Classes and the File System\\test.cs",
+              "RelativeToolTip": "Working with Stream Classes and the File System\\test.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAkwOoBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T03:30:55.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_13\\Working with Stream Classes and the File System\\Program.cs",
+              "RelativeDocumentMoniker": "Working with Stream Classes and the File System\\Program.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_13\\Working with Stream Classes and the File System\\Program.cs",
+              "RelativeToolTip": "Working with Stream Classes and the File System\\Program.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAM0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T03:03:23.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

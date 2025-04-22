@@ -1,0 +1,15 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.AssemblyInfoInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.AssemblyInfo.cs
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.sourcelink.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\bin\Debug\net8.0\InternetMagazin.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\bin\Debug\net8.0\InternetMagazin.deps.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\bin\Debug\net8.0\InternetMagazin.runtimeconfig.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\bin\Debug\net8.0\InternetMagazin.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\bin\Debug\net8.0\InternetMagazin.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\refint\InternetMagazin.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\InternetMagazin.genruntimeconfig.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_16\InternetMagazin\obj\Debug\net8.0\ref\InternetMagazin.dll

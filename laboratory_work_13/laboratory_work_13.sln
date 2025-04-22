@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with Stream Classes and the File System", "Working with Stream Classes and the File System\Working with Stream Classes and the File System.csproj", "{254278E1-EA63-4A10-BF00-6506F2C89CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254278E1-EA63-4A10-BF00-6506F2C89CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254278E1-EA63-4A10-BF00-6506F2C89CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254278E1-EA63-4A10-BF00-6506F2C89CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254278E1-EA63-4A10-BF00-6506F2C89CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FB738B-525A-47D7-8627-673EEF1A6BD1}
+	EndGlobalSection
+EndGlobal

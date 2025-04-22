@@ -1,0 +1,15 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.sourcelink.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\bin\Debug\net8.0\Test.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\bin\Debug\net8.0\Test.deps.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\bin\Debug\net8.0\Test.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\bin\Debug\net8.0\Test.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\refint\Test.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Test\obj\Debug\net8.0\ref\Test.dll

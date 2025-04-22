@@ -1,0 +1,53 @@
+{
+  "ClassName": "Car",
+  "AssemblyName": "Reflection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "HasPublicConstructors": true,
+  "PublicMethods": [
+    "get_Brand",
+    "set_Brand",
+    "get_Model",
+    "set_Model",
+    "get_Year",
+    "set_Year",
+    "get_Color",
+    "set_Color",
+    "get_Price",
+    "set_Price",
+    "get_RegistrationNumber",
+    "set_RegistrationNumber",
+    "GetCarAge",
+    "ToString",
+    "Equals",
+    "GetHashCode",
+    "ShowClassInfo",
+    "ShowCarsByBrand",
+    "ShowCarsByModelAndAge",
+    "GetType"
+  ],
+  "FieldsAndProperties": [
+    "Field: id (Int32)",
+    "Field: brand (String)",
+    "Field: model (String)",
+    "Field: year (Int32)",
+    "Field: color (String)",
+    "Field: price (Decimal)",
+    "Field: registrationNumber (String)",
+    "Field: carCount (Int32)",
+    "Field: CurrentYear (Int32)",
+    "Property: Brand (String)",
+    "Property: Model (String)",
+    "Property: Year (Int32)",
+    "Property: Color (String)",
+    "Property: Price (Decimal)",
+    "Property: RegistrationNumber (String)"
+  ],
+  "ImplementedInterfaces": [],
+  "MethodsWithStringParameter": [
+    "set_Brand",
+    "set_Model",
+    "set_Color",
+    "set_RegistrationNumber",
+    "ShowCarsByBrand",
+    "ShowCarsByModelAndAge"
+  ]
+}

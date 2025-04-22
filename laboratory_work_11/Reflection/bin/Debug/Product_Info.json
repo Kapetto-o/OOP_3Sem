@@ -1,0 +1,29 @@
+{
+  "ClassName": "Product",
+  "AssemblyName": "Reflection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "HasPublicConstructors": true,
+  "PublicMethods": [
+    "get_Name",
+    "set_Name",
+    "get_Price",
+    "set_Price",
+    "GetDescription",
+    "DoClone",
+    "ToString",
+    "Equals",
+    "GetHashCode",
+    "GetType"
+  ],
+  "FieldsAndProperties": [
+    "Field: \u003CName\u003Ek__BackingField (String)",
+    "Field: \u003CPrice\u003Ek__BackingField (Decimal)",
+    "Property: Name (String)",
+    "Property: Price (Decimal)"
+  ],
+  "ImplementedInterfaces": [
+    "ICloneable"
+  ],
+  "MethodsWithStringParameter": [
+    "set_Name"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_11\\reflection\\reflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|solutionrelative:reflection\\reflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|solutionrelative:reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\reflection\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|solutionrelative:reflection\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\reflection\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587AECB-8C8C-44A8-BE0D-6BBC62C623A0}|Reflection\\Reflection.csproj|solutionrelative:reflection\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Car.cs",
+              "RelativeDocumentMoniker": "Reflection\\Car.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Car.cs",
+              "RelativeToolTip": "Reflection\\Car.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:26:29.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reflector.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Reflector.cs",
+              "RelativeDocumentMoniker": "Reflection\\Reflector.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Reflector.cs",
+              "RelativeToolTip": "Reflection\\Reflector.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:26:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Product.cs",
+              "RelativeDocumentMoniker": "Reflection\\Product.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Product.cs",
+              "RelativeToolTip": "Reflection\\Product.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:26:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Reflection\\Program.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_11\\Reflection\\Program.cs",
+              "RelativeToolTip": "Reflection\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:19:21.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EE61A-AD5A-497D-90B8-B25CFFB0C767}|collections\\collections.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_9\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EE61A-AD5A-497D-90B8-B25CFFB0C767}|collections\\collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_9\\collections\\Program.cs",
+              "RelativeDocumentMoniker": "collections\\Program.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_9\\collections\\Program.cs",
+              "RelativeToolTip": "collections\\Program.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:48:39.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

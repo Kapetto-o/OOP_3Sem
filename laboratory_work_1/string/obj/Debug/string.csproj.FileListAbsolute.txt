@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\bin\Debug\@string.exe.config
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\bin\Debug\@string.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\bin\Debug\@string.pdb
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\obj\Debug\string.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\obj\Debug\@string.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\string\obj\Debug\@string.pdb

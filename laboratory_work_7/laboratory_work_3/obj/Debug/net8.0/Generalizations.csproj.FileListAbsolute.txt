@@ -1,0 +1,15 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\bin\Debug\net8.0\Generalizations.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\bin\Debug\net8.0\Generalizations.deps.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\bin\Debug\net8.0\Generalizations.runtimeconfig.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\bin\Debug\net8.0\Generalizations.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\bin\Debug\net8.0\Generalizations.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.AssemblyInfoInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.AssemblyInfo.cs
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.sourcelink.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\refint\Generalizations.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\Generalizations.genruntimeconfig.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_7\laboratory_work_3\obj\Debug\net8.0\ref\Generalizations.dll

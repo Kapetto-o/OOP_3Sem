@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countrys>
+  <Country>
+    <Name>Spane</Name>
+    <Rank>10</Rank>
+    <Password>secret_password</Password>
+  </Country>
+  <Country>
+    <Name>Belarus</Name>
+    <Rank>20</Rank>
+    <Password>another_password</Password>
+  </Country>
+  <Country>
+    <Name>China</Name>
+    <Age>5</Age>
+    <Password>mypassword</Password>
+  </Country>
+</Countrys>

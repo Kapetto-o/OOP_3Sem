@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347C54BB-837B-4C13-AC03-50192E33363F}|Test\\Test.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_8\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347C54BB-837B-4C13-AC03-50192E33363F}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEEF5A8-5664-4190-B7EA-3559BDF909BF}|Delegates-Events-Lambda-Expressions\\Delegates-Events-Lambda-Expressions.csproj|D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\delegates-events-lambda-expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEEF5A8-5664-4190-B7EA-3559BDF909BF}|Delegates-Events-Lambda-Expressions\\Delegates-Events-Lambda-Expressions.csproj|solutionrelative:delegates-events-lambda-expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEEF5A8-5664-4190-B7EA-3559BDF909BF}|Delegates-Events-Lambda-Expressions\\Delegates-Events-Lambda-Expressions.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_8\\delegates-events-lambda-expressions\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FCEEF5A8-5664-4190-B7EA-3559BDF909BF}|Delegates-Events-Lambda-Expressions\\Delegates-Events-Lambda-Expressions.csproj|solutionrelative:delegates-events-lambda-expressions\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\Delegates-Events-Lambda-Expressions\\App.config",
+              "RelativeDocumentMoniker": "Delegates-Events-Lambda-Expressions\\App.config",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\Delegates-Events-Lambda-Expressions\\App.config",
+              "RelativeToolTip": "Delegates-Events-Lambda-Expressions\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-16T13:01:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:22:36.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\Delegates-Events-Lambda-Expressions\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates-Events-Lambda-Expressions\\Program.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_8\\Delegates-Events-Lambda-Expressions\\Program.cs",
+              "RelativeToolTip": "Delegates-Events-Lambda-Expressions\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:57:48.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\bin\Debug\LabClass_Car.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\bin\Debug\LabClass_Car.exe
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\bin\Debug\LabClass_Car.pdb
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\obj\Debug\LabClass_Car.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\obj\Debug\LabClass_Car.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\obj\Debug\LabClass_Car.exe
+D:\GitHub\BSTU\course_2\OOP_3\Laboratory_work_2\LabClass_Car\obj\Debug\LabClass_Car.pdb

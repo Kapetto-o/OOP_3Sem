@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\collectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\collectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\genericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\genericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\watch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\watch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|d:\\github\\bstu\\course_2\\oop_3\\laboratory_work_7\\laboratory_work_3\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E3DFC0-4C07-4DD5-8386-2C00AAA0F0CD}|laboratory_work_3\\Generalizations.csproj|solutionrelative:laboratory_work_3\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericInterface.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\GenericInterface.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\GenericInterface.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\GenericInterface.cs",
+              "RelativeToolTip": "laboratory_work_3\\GenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:38:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Product.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\Product.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Product.cs",
+              "RelativeToolTip": "laboratory_work_3\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:40:04.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Cake.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\Cake.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Cake.cs",
+              "RelativeToolTip": "laboratory_work_3\\Cake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:39:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Watch.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Watch.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\Watch.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Watch.cs",
+              "RelativeToolTip": "laboratory_work_3\\Watch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:27:49.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\ExtensionMethods.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\ExtensionMethods.cs",
+              "RelativeToolTip": "laboratory_work_3\\ExtensionMethods.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:52:51.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionType.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\CollectionType.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\CollectionType.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\CollectionType.cs",
+              "RelativeToolTip": "laboratory_work_3\\CollectionType.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:39:16.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Program.cs",
+              "RelativeDocumentMoniker": "laboratory_work_3\\Program.cs",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\OOP_3\\laboratory_work_7\\laboratory_work_3\\Program.cs",
+              "RelativeToolTip": "laboratory_work_3\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:19:17.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

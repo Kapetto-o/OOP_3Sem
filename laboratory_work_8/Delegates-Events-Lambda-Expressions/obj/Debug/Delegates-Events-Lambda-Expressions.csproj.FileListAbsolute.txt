@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\bin\Debug\Delegates-Events-Lambda-Expressions.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\bin\Debug\Delegates-Events-Lambda-Expressions.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\bin\Debug\Delegates-Events-Lambda-Expressions.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\obj\Debug\Delegates-Events-Lambda-Expressions.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\obj\Debug\Delegates-Events-Lambda-Expressions.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\obj\Debug\Delegates-Events-Lambda-Expressions.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_8\Delegates-Events-Lambda-Expressions\obj\Debug\Delegates-Events-Lambda-Expressions.pdb

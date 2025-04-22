@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\bin\Debug\checked_unchecked.exe.config
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\bin\Debug\checked_unchecked.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\bin\Debug\checked_unchecked.pdb
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\obj\Debug\checked_unchecked.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\obj\Debug\checked_unchecked.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\obj\Debug\checked_unchecked.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\checked_unchecked\obj\Debug\checked_unchecked.pdb

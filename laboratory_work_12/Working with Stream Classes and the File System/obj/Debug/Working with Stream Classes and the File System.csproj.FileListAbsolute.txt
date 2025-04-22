@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\bin\Debug\Working with Stream Classes and the File System.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\bin\Debug\Working with Stream Classes and the File System.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\bin\Debug\Working with Stream Classes and the File System.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\obj\Debug\Working with Stream Classes and the File System.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\obj\Debug\Working with Stream Classes and the File System.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\obj\Debug\Working with Stream Classes and the File System.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_12\Working with Stream Classes and the File System\obj\Debug\Working with Stream Classes and the File System.pdb

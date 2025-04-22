@@ -1,0 +1,15 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\bin\Debug\net8.0\laboratory_work_3.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\bin\Debug\net8.0\laboratory_work_3.deps.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\bin\Debug\net8.0\laboratory_work_3.runtimeconfig.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\bin\Debug\net8.0\laboratory_work_3.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\bin\Debug\net8.0\laboratory_work_3.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.AssemblyInfoInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.AssemblyInfo.cs
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.sourcelink.json
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\refint\laboratory_work_3.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\laboratory_work_3.genruntimeconfig.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_3\laboratory_work_3\obj\Debug\net8.0\ref\laboratory_work_3.dll

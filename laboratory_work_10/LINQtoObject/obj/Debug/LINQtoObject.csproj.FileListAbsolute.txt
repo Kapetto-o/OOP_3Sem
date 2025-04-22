@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\bin\Debug\LINQtoObject.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\bin\Debug\LINQtoObject.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\bin\Debug\LINQtoObject.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\obj\Debug\LINQtoObject.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\obj\Debug\LINQtoObject.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\obj\Debug\LINQtoObject.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_10\LINQtoObject\obj\Debug\LINQtoObject.pdb

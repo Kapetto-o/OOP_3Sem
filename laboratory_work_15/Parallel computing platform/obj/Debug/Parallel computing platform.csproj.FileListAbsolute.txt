@@ -1,0 +1,10 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\bin\Debug\Parallel computing platform.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\bin\Debug\Parallel computing platform.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\bin\Debug\Parallel computing platform.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\obj\Debug\Parallel computing platform.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\obj\Debug\Parallel computing platform.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\obj\Debug\Parallel.C5AAE140.Up2Date
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\obj\Debug\Parallel computing platform.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_15\Parallel computing platform\obj\Debug\Parallel computing platform.pdb

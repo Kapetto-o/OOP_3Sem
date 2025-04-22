@@ -1,0 +1,2 @@
+Список файлов:
+LPAdirinfo.txt - D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\LabTest\LPAInspect\LPAdirinfo.txt

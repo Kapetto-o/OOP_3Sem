@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\obj\Debug\Working with threads of execution.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\obj\Debug\Working with threads of execution.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\bin\Debug\Working with threads of execution.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\bin\Debug\Working with threads of execution.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\bin\Debug\Working with threads of execution.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\obj\Debug\Working with threads of execution.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_14\Working with threads of execution\obj\Debug\Working with threads of execution.pdb

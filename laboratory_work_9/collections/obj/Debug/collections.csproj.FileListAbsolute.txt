@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\bin\Debug\collections.exe.config
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\bin\Debug\collections.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\bin\Debug\collections.pdb
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\obj\Debug\collections.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\obj\Debug\collections.exe
+D:\GitHub\BSTU\course_2\OOP_3\laboratory_work_9\collections\obj\Debug\collections.pdb

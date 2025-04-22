@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\bin\Debug\tuples.exe.config
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\bin\Debug\tuples.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\bin\Debug\tuples.pdb
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\obj\Debug\tuples.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\obj\Debug\tuples.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\obj\Debug\tuples.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\tuples\obj\Debug\tuples.pdb

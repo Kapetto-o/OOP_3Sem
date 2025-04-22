@@ -1,0 +1,7 @@
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\bin\Debug\CLR_and.NET_Basics.Types.Arrays__Tuples__and_Strings.exe.config
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\bin\Debug\CLR_and.NET_Basics.Types.Arrays__Tuples__and_Strings.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\bin\Debug\CLR_and.NET_Basics.Types.Arrays__Tuples__and_Strings.pdb
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\obj\Debug\types.csproj.AssemblyReference.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\obj\Debug\types.csproj.CoreCompileInputs.cache
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\obj\Debug\CLR_and.NET_Basics.Types.Arrays__Tuples__and_Strings.exe
+D:\GitHub\BSTU\course_2\OOP_1\laboratory_work_1\CLR and .NET Basics. Types. Arrays, Tuples, and Strings\obj\Debug\CLR_and.NET_Basics.Types.Arrays__Tuples__and_Strings.pdb
